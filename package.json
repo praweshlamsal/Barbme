@@ -1,0 +1,12 @@
+{
+  "name": "Barbme",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "devDependencies": {
+    "nx": "^20.3.1"
+  }
+}
